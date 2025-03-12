@@ -1,0 +1,158 @@
+{
+  "name": "Lokesh Kumar Saini",
+  "label": "Software Developer",
+  "image_path": "portfolio_media/profile1.png",
+  "contact": {
+    "email": "lokeshsaini.eng@gmail.com",
+    "phone": "6378989141",
+    "location": "Jaipur,India"
+  },
+  "summary": "Passionate Data Science and Software Development enthusiast with a strong foundation in Machine Learning, MLOps, and Web Development. I have hands-on experience working with machine learning models, feature engineering, and end-to-end deployment.",
+  
+  "social_links": [
+    {
+      "label": "LokeshKumarSaini.com",
+      "url": "https://lokeshkumarsaini.github.io",
+      "svg_path": "img/globe.svg"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://linkedin.com/in/lakku153",
+      "svg_path": "img/linkedin.svg"
+    },
+    {
+      "label": "Github",
+      "url": "https://github.com/lakku153",
+      "svg_path": "img/github.svg"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "CadMax Group",
+      "position": "Software Developer",
+      "url": "http://cadmaxpro.com/",
+      "start_date": "2024",
+      "end_date": "2025",
+      "summary": "",
+      "highlights": [
+        "Implemented a deep learning-based road extraction model using U-Net and Meta’s SAM on satellite raster images, leveraging automatic dataset preprocessing, model training, and post-processing techniques to enhance accuracy.",
+        "Developed and deployed four responsive websites for different sub-companies of an organization, ensuring brand consistency, optimized performance, and user-friendly interfaces."
+      ]
+    },
+    {
+      "company": "Celebal Technologies",
+      "position": "Data Science Intern",
+      "url": "https://celebaltech.com/",
+      "start_date": "Jun 2024",
+      "end_date": "Aug 2024",
+      "summary": "",
+      "highlights": [
+        "Learned and applied Python, Machine Learning, Exploratory Data Analysis (EDA), and Feature Engineering.",
+        "Developed a Student Score Prediction Model using regression techniques to analyze factors affecting academic performance and visualized data to extract meaningful insights, improving model accuracy."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Network Security System",
+      "summary": "Developed a phishing website detection system using machine learning, analyzing URL-based security, behavioral, and network attributes to classify websites as legitimate or malicious.Enhanced cybersecurity threat detection by evaluating domain registration length, SSL certificate status, redirects, and web traffic rankings to identify phishing patterns. ",
+      "url": "https://github.com/lakku153/Network-Security-Project",
+      "images": [
+        {
+          "img_path": "portfolio_media/NSS1.webp"
+          
+        },
+        {
+          "img_path": "portfolio_media/NSS2.webp"
+        }
+      ]
+    },
+    {
+      "title": "Insurance Cost Prediction",
+      "summary": "Developed a machine learning model to predict insurance charges based on demographic and health-related features, utilizing algorithms like Linear Regression, Random Forest, and XGBoost.Performed data preprocessing, feature engineering, and model evaluation using Python libraries (pandas, numpy, sklearn), achieving optimized performance metrics such as MSE and R² score.",
+      "url": "https://github.com/lakku153/Insurance-Cost-Prediction",
+      "images": [
+        {
+          "img_path": "portfolio_media/ICP1.webp"
+          
+        },
+        {
+          "img_path": "portfolio_media/icp2.webp"
+        }
+      ]
+    },
+    {
+      "title": "Automated ETL Pipeline for NASA APOD",
+      "summary": "Developed an automated ETL pipeline using Apache Airflow to extract NASA APOD data daily, transform it, and store it in a PostgreSQL database hosted on AWS RDS. Deployed the pipeline on Astronomer Cloud, utilizing Docker Compose for containerization, ensuring efficient DAG scheduling, data ingestion, and seamless execution. ",
+      "url": "https://cm6pyezfg1fe601mdzc5xx44b.astronomer.run/dby87xc8/home",
+      "images": [
+        {
+          "img_path": "portfolio_media/NSS1.webp"
+          
+        },
+        {
+          "img_path": "portfolio_media/NSS2.webp"
+        }
+      ]
+    }
+  ],
+  "volunteer_experience": [
+    
+    {
+      "organization": "Arya College of Engg. & I.T.",
+      "position": "Student Ambassador",
+      "url": "https://www.aryacollege.in/",
+      "start_date": "2023",
+      "end_date": "2024",
+      "summary": "Gave campus tours, organized promotional events, and ran summer orientation.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Arya College of Engg. & IT",
+      "location": "Jaipur, Rajasthan, India",
+      "url": "https://www.aryacollege.in/",
+      "degrees": [
+        "Bachelor of Technology in Computer Science"
+      ],
+      "honors": [
+        "2020 Outstanding Student Award",
+        "2024 Best Programmer Award"
+      ],
+      "gpa_cumulative": "8.30",
+      "graduation_date": "2025"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python, MLOps, EDA",
+      "proficiency": 100,
+      "proficiency_label": "Expert"
+    },
+    {
+      "name": "Deep Learning, PowerBI, Spark",
+      "proficiency": 90,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "ReactJS, Bootstrap",
+      "proficiency": 75,
+      "proficiency_label": "Comfortable"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Cricket",
+      "summary": "",
+      "images": [
+        {
+          "img_path": "portfolio_media/cricket.jpg",
+          "caption": "Chess Board made from Walnut and Maple"
+        }     
+      ]
+    }
+  ],
+  "languages": [],
+  "references": []
+}
