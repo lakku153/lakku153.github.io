@@ -37,4 +37,4 @@ with Path("index.html").open("w", encoding="utf-8") as f:
 with Path("resume.html").open("w", encoding="utf-8") as f:
     f.write(resume_output)
 
-print("HTML file generated successfully!")
+print("HTML file generated successfully.!")
